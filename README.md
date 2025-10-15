@@ -1,4 +1,4 @@
-# IS2 Patrones de diseño
+# Patrones de diseño
 Mini ejemplos realizados en Java para la compresion de los patrones de diseño.
 
 ---
